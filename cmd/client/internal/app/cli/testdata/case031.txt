@@ -1,0 +1,5 @@
+2
+ff
+3
+cli_testbad.go
+ff
